@@ -30,3 +30,4 @@ Also, we applied the heatmap to generate insights of violations these Restaurant
 
 5. This analysis surprisingly found that the most common violation of restaurants is related to temperature (shown as below). Be careful about temperature if you running a restaurant.
 
+*Refer to this link to see the plotly plots:http://nbviewer.jupyter.org/github/DarrellShih/Resturant-Violations-Vizualization-Project/blob/master/DV_Notebook/DV_GroupProject_Final_F4.ipynb
